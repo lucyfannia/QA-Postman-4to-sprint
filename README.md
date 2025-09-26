@@ -27,8 +27,7 @@ Validar los endpoints de **kits** y **servicios de entrega**, comprobando tanto 
 - ❌ Pruebas negativas: exceder límite de productos, datos inválidos en la solicitud, direcciones incorrectas, etc.  
 
 ## 📂 Contenido
-- [`UrbanGrocers_API.postman_collection.json`](https://github.com/lucyfannia/QA-Postman-4to-sprint/blob/main/Lucy%20Arzate%20%2C%20grupo%2040%2C%204er%20sprint.postman_collection.json) → Colección de pruebas Postman.  
-- [`UrbanGrocers_Env.postman_environment.json`](environments/UrbanGrocers_Env.postman_environment.json) → Variables de entorno (si aplica).  
+- [`UrbanGrocers_API.postman_collection.json`](https://github.com/lucyfannia/QA-Postman-4to-sprint/blob/main/Lucy%20Arzate%20%2C%20grupo%2040%2C%204er%20sprint.postman_collection.json) → Colección de pruebas Postman.    
 - [`Requisitos_UrbanGrocers.pdf`](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-sprint-3/QA_3.1.1_Requisitos_para_el_back-end_de_Urban.grocers.pdf) → Requisitos del back-end.  
 - [`Checklist_Pruebas.xlsx`](https://docs.google.com/spreadsheets/d/1kbGYznBHBtw74YLfojU-QdkZs5f2wIHI4GFnpTc9dnk/edit?gid=802585125#gid=802585125) → Lista de comprobación de casos de prueba.
  

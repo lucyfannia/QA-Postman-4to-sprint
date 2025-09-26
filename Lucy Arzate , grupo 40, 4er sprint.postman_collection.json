@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "6c4e02f9-35b7-4a92-bd71-62ef2b07a437",
+		"name": "Lucy Arzate , grupo 40, 4er sprint",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47730534"
+	},
+	"item": [
+		{
+			"name": "Agregar productos existentes",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

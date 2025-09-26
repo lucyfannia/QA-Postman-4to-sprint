@@ -27,10 +27,11 @@ Validar los endpoints de **kits** y **servicios de entrega**, comprobando tanto 
 - ❌ Pruebas negativas: exceder límite de productos, datos inválidos en la solicitud, direcciones incorrectas, etc.  
 
 ## 📂 Contenido
-- `collections/UrbanGrocers_API.postman_collection.json` → Colección de pruebas Postman.  
-- `environments/UrbanGrocers_Env.postman_environment.json` → Variables de entorno (si aplica).  
-- `docs/Requisitos_UrbanGrocers.pdf` → Requisitos del back-end.  
-- `docs/Checklist_Pruebas.xlsx` → Lista de comprobación de casos de prueba.  
+- [`UrbanGrocers_API.postman_collection.json`](collections/UrbanGrocers_API.postman_collection.json) → Colección de pruebas Postman.  
+- [`UrbanGrocers_Env.postman_environment.json`](environments/UrbanGrocers_Env.postman_environment.json) → Variables de entorno (si aplica).  
+- [`Requisitos_UrbanGrocers.pdf`](https://practicum-content.s3.us-west-1.amazonaws.com/new-markets/qa-sprint-3/QA_3.1.1_Requisitos_para_el_back-end_de_Urban.grocers.pdf) → Requisitos del back-end.  
+- [`Checklist_Pruebas.xlsx`](https://docs.google.com/spreadsheets/d/1kbGYznBHBtw74YLfojU-QdkZs5f2wIHI4GFnpTc9dnk/edit?gid=802585125#gid=802585125) → Lista de comprobación de casos de prueba.
+ 
 
 ## 🚀 Ejecución
 1. Importar la colección en Postman (`File > Import`).  

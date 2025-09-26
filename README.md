@@ -1,6 +1,6 @@
 <div align="center">
   
-# QA-Postman-4to-sprint
+# QA-Postman-4to-sprint <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman"/>
 
 </div>
   
